@@ -1,0 +1,78 @@
+# Flick: Photo & Storage Cleaner
+
+> Flick is an iPhone app for cleaning the photo library: swipe right to trash, left to keep. It finds similar and duplicate photos, screenshots, blurry and dark shots, receipts, documents and the biggest videos. No ads. Nothing is uploaded to the cloud: all analysis runs on the iPhone. Nothing is deleted until the user reviews and confirms it.
+
+Key facts:
+- Platform: iOS (iPhone), on the App Store. Search "Flick: Photo & Storage Cleaner" (localized store names below).
+- Developer: Ofek Moshe Moshcovitz, an independent developer in Karmiel, Israel.
+- Privacy: on-device processing with iOS system frameworks; no Flick account; no advertising, analytics or tracking SDKs; no IDFA.
+- Safety: right swipe only marks a photo; a review screen and the iOS prompt come before deletion; multi-step Undo; deleted photos stay in iOS Recently Deleted for 30 days.
+- Swipe direction is the same in every language (right = trash, left = keep), including Hebrew and Arabic.
+- App languages: English, Hebrew, Spanish, French, German, Portuguese (Brazil), Russian, Arabic. This website is available in the same 8 languages.
+- Prices: shown in the App Store before purchase; see the terms of use page.
+- Contact: support@flickcleaner.app
+
+## Pages by language
+- English (en), store name "Flick: Photo & Storage Cleaner": [home](https://flickcleaner.app/), [features](https://flickcleaner.app/features/), [FAQ](https://flickcleaner.app/support/), [privacy](https://flickcleaner.app/privacy/), [terms](https://flickcleaner.app/terms/)
+- עברית (he), store name "Flick: ניקוי תמונות ואחסון": [home](https://flickcleaner.app/he/), [features](https://flickcleaner.app/he/features/), [FAQ](https://flickcleaner.app/he/support/), [privacy](https://flickcleaner.app/he/privacy/), [terms](https://flickcleaner.app/he/terms/)
+- Español (es), store name "Flick: Limpiar Fotos y Espacio": [home](https://flickcleaner.app/es/), [features](https://flickcleaner.app/es/features/), [FAQ](https://flickcleaner.app/es/support/), [privacy](https://flickcleaner.app/es/privacy/), [terms](https://flickcleaner.app/es/terms/)
+- Français (fr), store name "Flick: Nettoyer Photos+Espace": [home](https://flickcleaner.app/fr/), [features](https://flickcleaner.app/fr/features/), [FAQ](https://flickcleaner.app/fr/support/), [privacy](https://flickcleaner.app/fr/privacy/), [terms](https://flickcleaner.app/fr/terms/)
+- Deutsch (de), store name "Flick: Fotos & Speicher leeren": [home](https://flickcleaner.app/de/), [features](https://flickcleaner.app/de/features/), [FAQ](https://flickcleaner.app/de/support/), [privacy](https://flickcleaner.app/de/privacy/), [terms](https://flickcleaner.app/de/terms/)
+- Português (Brasil) (pt-BR), store name "Flick: Limpar Fotos e Espaço": [home](https://flickcleaner.app/pt/), [features](https://flickcleaner.app/pt/features/), [FAQ](https://flickcleaner.app/pt/support/), [privacy](https://flickcleaner.app/pt/privacy/), [terms](https://flickcleaner.app/pt/terms/)
+- Русский (ru), store name "Flick: очистка фото и памяти": [home](https://flickcleaner.app/ru/), [features](https://flickcleaner.app/ru/features/), [FAQ](https://flickcleaner.app/ru/support/), [privacy](https://flickcleaner.app/ru/privacy/), [terms](https://flickcleaner.app/ru/terms/)
+- العربية (ar), store name "Flick: منظف الصور والتخزين": [home](https://flickcleaner.app/ar/), [features](https://flickcleaner.app/ar/features/), [FAQ](https://flickcleaner.app/ar/support/), [privacy](https://flickcleaner.app/ar/privacy/), [terms](https://flickcleaner.app/ar/terms/)
+
+## Features
+- Storage full? Breathe.: See where your space goes. The Storage tab splits your iPhone by file type and album, and Home shows how much each cleanup can free before you start.
+- Swipe right to trash, left to keep: The same in every language, never mirrored. Swipe up to share, down to hide in the iOS Hidden album, double-tap to favorite. Buttons do the same if you prefer tapping.
+- Similar and duplicate photos, side by side: On-device Vision groups near-identical shots and bursts. Versus Mode puts them next to each other so you keep the best one.
+- Screenshot cleanup: Every screenshot in one place. Flick flags the ones with text, like codes and receipts, and can save them as PDF or text before you clear them.
+- Biggest videos first: Every video sorted by size, largest first. Preview, then delete, keep, or compress. Compress saves a smaller copy before the original goes to review.
+- Undo, then review, then delete: Multi-step Undo walks back your last decisions. Everything you trashed waits on one review screen, and deleted photos stay in Recently Deleted for 30 days.
+- Finders for the rest of the clutter: Blurry and too-dark photos, receipts, documents, RAW + JPEG pairs, Live Photos to stills, and folders from the Files app.
+- What's missing: ads, uploads, accounts: No ads. Nothing uploaded to the cloud. No Flick account. Analysis runs with iOS system frameworks on your iPhone.
+- Zen Mode: A calm five-minute session with a leaf countdown, then a review prompt.
+- Shake to Clean: Shake the phone and land on a random month from your past.
+- Hands-free voice cleaning: Keep, delete and undo by voice, with on-device speech recognition.
+- Widgets: Free space and your streak on the Home Screen, plus a widget that surfaces your blurriest recent photo.
+- Clean together: Co-op cleaning with SharePlay in a FaceTime call.
+- 8 languages: English, Hebrew, Spanish, French, German, Portuguese (Brazil), Russian and Arabic, with full RTL.
+
+## FAQ (English; every language has its own FAQ page above)
+### What is the best app to delete duplicate photos on iPhone?
+Look for three things: it finds similar shots, not only exact copies; it lets you compare them before anything is deleted; and it does the analysis on the iPhone. Flick: Photo & Storage Cleaner does all three. It groups near-identical photos and bursts with on-device Vision, shows them side by side in Versus Mode so you keep the best one, and deletes nothing until you confirm on a review screen.
+
+### How do I delete duplicate photos on my iPhone?
+iOS 16 and later has a built-in Duplicates album in Photos (Albums, then Utilities) that merges exact copies. For similar shots, bursts and near-duplicates, open Flick, go to Find, then Duplicates. Pick the best photo in each group, review, and confirm.
+
+### How do I free up storage on my iPhone without losing photos I care about?
+Start with the biggest wins: large videos, screenshots, duplicates and blurry shots. In Flick, swipe right to trash and left to keep, then check everything once on the review screen before it's deleted. You can compress a big video instead of deleting it.
+
+### Is there a photo cleaner app that doesn't upload my photos?
+Yes. Flick runs every scan on your iPhone. Nothing is uploaded to the cloud, there is no Flick account, and the app has no ad, analytics or tracking SDKs.
+
+### Is there a photo cleaner app without ads?
+Flick has no ads anywhere: not on launch, not between swipes.
+
+### Does Flick delete photos automatically?
+No. Swiping right only marks a photo. Nothing is deleted until you confirm on the review screen and then in the iOS prompt.
+
+### Can I undo a deletion?
+Yes, twice over. Undo walks back your last swipes in the app. After you confirm, photos move to iOS Recently Deleted, where they stay for 30 days.
+
+### Why didn't my storage go up right after deleting?
+Deleted photos go to Recently Deleted first. The space comes back when you empty that album in Photos or when iOS clears it after 30 days. Flick shows a reminder and an Open Photos button.
+
+### Does swipe direction flip in Hebrew or Arabic?
+No. Right is always trash and left is always keep, in every language. Only the text is mirrored.
+
+### Which languages does Flick support?
+English, Hebrew, Spanish, French, German, Portuguese (Brazil), Russian and Arabic. It follows your device language.
+
+### Does Flick work with iCloud Photos?
+Yes. Photos stored only in iCloud are downloaded by iOS for display, with a cloud badge and a Retry or Skip option when you're offline. Deleting a photo with iCloud Photos on also removes it from your other Apple devices.
+
+### How do I contact support?
+Email support@flickcleaner.app. A real person reads every message.
+
+Full FAQ in all 8 languages: https://flickcleaner.app/llms-full.txt
