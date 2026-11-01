@@ -4,7 +4,7 @@
 
 Key facts:
 - Platform: iOS (iPhone), on the App Store. Search "Flick: Photo & Storage Cleaner" (localized store names below).
-- Developer: Ofek Moshe Moshcovitz, an independent developer in Karmiel, Israel.
+- Developer/publisher: Flick (independent app studio). Legal operator details are in the privacy policy and terms of use.
 - Privacy: on-device processing with iOS system frameworks; no Flick account; no advertising, analytics or tracking SDKs; no IDFA.
 - Safety: right swipe only marks a photo; a review screen and the iOS prompt come before deletion; multi-step Undo; deleted photos stay in iOS Recently Deleted for 30 days.
 - Swipe direction is the same in every language (right = trash, left = keep), including Hebrew and Arabic.
